@@ -1,0 +1,22 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "soft-ui-dashboard",
+    "docker": "1",
+    "frontend": "",
+    "github_repo": "https://github.com/appseed-projects/3dda3ed4-f598-48c1-b984-acf0c66f5ae4",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "3dda3ed4-f598-48c1-b984-acf0c66f5ae4",
+    "task_info": "Upload Sources [0%] - 329 files",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-05-17-19-45-24",
+    "task_ts_start": "2022-05-17-19-45-23"
+}
